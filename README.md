@@ -22,10 +22,10 @@ Full-stack Blogging Platform
 
 
     **Day 3**
-  -Backend development
+  3. Backend development
     
     **Day 4**
-  -Integration and testing
+  4. Integration and testing
     
     **Day 5**
   -UI/UX optimization
