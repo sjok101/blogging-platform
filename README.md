@@ -21,19 +21,11 @@ Full-stack Blogging Platform
   - Implement basic CSS styling
 
 
-    **Day 3**
-  3. Backend development
-    
-    **Day 4**
-  4. Integration and testing
-    
-    **Day 5**
-  -UI/UX optimization
-    
-    **Day 6**
-  -Additional features
-    
-    **Day 7**
-  -Final testing and deployment
+    **Day 3-7**
+  1. Backend development
+  2. Integration and testing
+  3. UI/UX optimization
+  4. Additional features
+  5. Final testing and deployment
     
     Author Basil Ok
