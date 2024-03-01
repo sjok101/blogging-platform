@@ -6,7 +6,7 @@ Full-stack Blogging Platform
 - Description: Develop a feature-rich blogging platform with user authentication, post creation/editing, and additional features like comments and tags.
 - Tech Stack: React for the frontend, Node.js with Express for the backend, MongoDB for the database.
 
-  # 7 Day development schedule:
+# 7 Day development schedule:
 
   **Day 1**
   - Set up React, Node.js, Express, MongoDB, git
@@ -22,18 +22,18 @@ Full-stack Blogging Platform
 
 
     **Day 3**
-    -Backend development
+  -Backend development
     
     **Day 4**
-    -Integration and testing
+  -Integration and testing
     
     **Day 5**
-    -UI/UX optimization
+  -UI/UX optimization
     
     **Day 6**
-    -Additional features
+  -Additional features
     
     **Day 7**
-    -Final testing and deployment
+  -Final testing and deployment
     
     Author Basil Ok
