@@ -1,0 +1,14 @@
+#headerContainer{
+    border: 1px solid black;
+    background-color: whitesmoke;
+}
+#headerContainer a{
+    text-decoration: none;
+}
+.leftside-links{
+    padding-right:1vh;
+}
+.rightside-links{
+    float: right;
+    padding-left:1vh;
+}
