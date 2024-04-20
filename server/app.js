@@ -17,6 +17,10 @@ app.get("/api", (req, res) => {
   res.json({ users: ["testOne", "testTwo", "testThree"] });
 });
 
+app.get("/api/signup-data", (req, res) => {
+  console.log(req.body);
+});
+
 const PORT = process.env.PORT || 8080;
 app.listen(PORT, () => {
   console.log("Listening to port " + PORT);
