@@ -2,8 +2,9 @@ import '../css/Footer.css'
 
 export default function Footer(){
     return(
-        <div>
+        <div id="footer-container">
             <table id="footer-links-table">
+                <tbody>
                 <tr>
                     <th>Features</th>
                     <th>Resources</th>
@@ -24,16 +25,19 @@ export default function Footer(){
                     <td><a>Popular Tags</a></td>
                     <td><a>Privacy Policy</a></td>
                 </tr>
+                </tbody>
             </table>
 
             <img id="logo" src="https://placehold.co/100x100"></img>
             <table id="social-links-table">
+                <tbody>
                 <tr>
-                    <td><a><img class="social-links" src="/img/facebook-small.png" ></img></a></td>
-                    <td><a><img class="social-links" src="/img/twitter-small.png"></img></a></td>
-                    <td><a><img class="social-links" src="/img/youtube-small.png"></img></a></td>
-                    <td><a><img class="social-links" src="/img/instagram-small.png"></img></a></td>
+                    <td><a><img className="social-links" src="/img/facebook-small.png" ></img></a></td>
+                    <td><a><img className="social-links" src="/img/twitter-small.png"></img></a></td>
+                    <td><a><img className="social-links" src="/img/youtube-small.png"></img></a></td>
+                    <td><a><img className="social-links" src="/img/instagram-small.png"></img></a></td>
                 </tr>
+                </tbody>
             </table>
         </div>
     )

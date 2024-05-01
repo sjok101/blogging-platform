@@ -1,0 +1,49 @@
+#quick-start-section{
+    display: flex;
+    flex-direction: column;
+}
+#quick-start-banner{
+    margin: 0 auto;
+    margin-top: 10vh;
+}
+
+#quick-start-section a{
+    display: block;
+    text-align: right;
+    margin: 10vh;
+}
+#examples-section, #persuasive-section{
+    display: flex;
+    flex-direction: column;
+}
+
+#examples-section-header, .persuasive-ad{
+    text-align: center;
+}
+
+#examples-section-intro, .persuasive-paragraph{
+    max-width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    border: 1px black solid;
+    padding: 10px;
+}
+
+#hover-examples{
+    padding-top: 5vh;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    max-width: 80%;
+}
+#hover-examples p{
+    border: 1px black solid;
+    padding: 2vh;
+    margin: 0 auto;
+}
+
+#hover-banner, .persuasive-ad{
+    margin: 0 auto;
+    margin-top: 10vh;
+}
+
