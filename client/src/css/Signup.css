@@ -1,0 +1,18 @@
+#signup-container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+#signup-form input{   
+    margin: auto;
+}
+
+#signup-form{
+    display: flex;
+    margin: auto;
+}
+#signup-form label{
+    margin-right: 10px;
+    margin-left: 20px;
+}

@@ -12,6 +12,7 @@ function App() {
     fetch("/api")
       .then((response) => response.json())
       .then((data) => {
+        console.log("Fetched data:", data);
         setBackendData(data);
       });
   }, []);
